@@ -1,0 +1,13 @@
+C:\Users\shukr\source\repos\DapperProject\bin\Debug\DapperProject.exe.config
+C:\Users\shukr\source\repos\DapperProject\bin\Debug\DapperProject.exe
+C:\Users\shukr\source\repos\DapperProject\bin\Debug\DapperProject.pdb
+C:\Users\shukr\source\repos\DapperProject\obj\Debug\DapperProject.csprojAssemblyReference.cache
+C:\Users\shukr\source\repos\DapperProject\obj\Debug\DapperProject.FormContact.resources
+C:\Users\shukr\source\repos\DapperProject\obj\Debug\DapperProject.Properties.Resources.resources
+C:\Users\shukr\source\repos\DapperProject\obj\Debug\DapperProject.csproj.GenerateResource.cache
+C:\Users\shukr\source\repos\DapperProject\obj\Debug\DapperProject.csproj.CoreCompileInputs.cache
+C:\Users\shukr\source\repos\DapperProject\obj\Debug\DapperProject.exe
+C:\Users\shukr\source\repos\DapperProject\obj\Debug\DapperProject.pdb
+C:\Users\shukr\source\repos\DapperProject\bin\Debug\Dapper.dll
+C:\Users\shukr\source\repos\DapperProject\bin\Debug\Dapper.xml
+C:\Users\shukr\source\repos\DapperProject\obj\Debug\DapperProject.csproj.CopyComplete
